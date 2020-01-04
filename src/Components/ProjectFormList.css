@@ -1,4 +1,24 @@
-.table{
-    min-width: 950px;
+
+.root{
+    min-width: 900px;
     align-content: center;
+    text-align: center;
 }
+
+
+table{
+    background-color: rgba(88, 88, 90, 0.116);
+    text-align: center;
+}
+
+.table-head{
+    background-color: rgba(17, 17, 17, 0.596);
+}
+
+#container p {
+    font-size: 45px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+

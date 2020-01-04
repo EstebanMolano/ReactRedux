@@ -4,14 +4,13 @@ import Dashboard from './Dashboard/sideBar';
 class Project extends Component {
 
 
-    render(){
-        return(
+    render() {
+        return (
             <div>
-                <Dashboard/>
+                <Dashboard />
             </div>
         );
     }
-
 }
 
 export default Project;

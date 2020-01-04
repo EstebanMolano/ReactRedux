@@ -1,8 +1,19 @@
-.root{
-    min-width: 950px;
-    align-content: center;
+
+
+
+#orderer button {
+    margin-right: 10px;
+    text-align: center;
 }
 
-.label{
-    margin-left: 20px;
+#orderer p {
+    font-size: 45px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    text-align: center;
+}
+
+
+.table {
+    margin-right: 100px;
 }
